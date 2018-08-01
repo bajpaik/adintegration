@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl_param">
+    <sn_cmp_rb_op_impl_param action="INSERT_OR_UPDATE">
+        <applicable_to/>
+        <datasource>1</datasource>
+        <datasourcevalue/>
+        <defaultvalue>${parameter.StackName}</defaultvalue>
+        <error_text>cannot exceed 100 characters</error_text>
+        <help_text/>
+        <host/>
+        <ismandatory>true</ismandatory>
+        <name>StackName</name>
+        <operation display_value="Provision">8633b4535b2b13001353273a41f91a31</operation>
+        <order>40</order>
+        <read_only>false</read_only>
+        <regex>^.{0,100}$</regex>
+        <sys_class_name>sn_cmp_rb_op_impl_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:08:50</sys_created_on>
+        <sys_id>e633b4535b2b13001353273a41f91af6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>StackName</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_param_e633b4535b2b13001353273a41f91af6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:08:50</sys_updated_on>
+        <ui_data_type/>
+        <value/>
+        <visibilty>true</visibilty>
+    </sn_cmp_rb_op_impl_param>
+</record_update>

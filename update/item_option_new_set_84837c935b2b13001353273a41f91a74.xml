@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>u_lifecycle_operation_parameters</internal_name>
+        <layout>2across</layout>
+        <name>Lifecycle Operation Parameters</name>
+        <order>2000</order>
+        <read_roles/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:10:01</sys_created_on>
+        <sys_id>84837c935b2b13001353273a41f91a74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lifecycle Operation Parameters</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>item_option_new_set_84837c935b2b13001353273a41f91a74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:10:01</sys_updated_on>
+        <title>Lifecycle Operation Parameters</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

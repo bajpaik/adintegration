@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_resource_dep">
+    <sn_cmp_bp_stage_resource_dep action="INSERT_OR_UPDATE">
+        <bp_stage_model display_value="">5733f4535b2b13001353273a41f91ab8</bp_stage_model>
+        <deployment_type>1</deployment_type>
+        <endpoint/>
+        <guest_association_name>Blueprint Container Resource</guest_association_name>
+        <guest_resource display_value="VM With AD Integration Blueprint Resource">8e33b4535b2b13001353273a41f91a24</guest_resource>
+        <host_association_name>Virtual Server</host_association_name>
+        <host_resource display_value="Virtual Server">6a4a735e0be622009e620bcb15673a04</host_resource>
+        <sys_class_name>sn_cmp_bp_stage_resource_dep</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:09:11</sys_created_on>
+        <sys_id>7b4334935b2b13001353273a41f91ad0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_resource_dep_7b4334935b2b13001353273a41f91ad0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:09:11</sys_updated_on>
+    </sn_cmp_bp_stage_resource_dep>
+</record_update>

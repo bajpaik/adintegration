@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cfg_cloud_script_template">
+    <sn_cfg_cloud_script_template action="INSERT_OR_UPDATE">
+        <content>$PASS='#JoinADCredential#'&#13;
+#write-host "pass = " $PASS&#13;
+$nodeCredsObj2 = $PASS -replace '\\"', '"';&#13;
+$nodeCredsObj = $nodeCredsObj2 | ConvertFrom-Json&#13;
+#write-host  "nodeCredsObj  "  $nodeCredsObj&#13;
+$username = $nodeCredsObj.Username&#13;
+$password = $nodeCredsObj.Password&#13;
+write-host  "username  "  $username&#13;
+#write-host  "password  "  $password&#13;
+$secstr = New-Object -TypeName System.Security.SecureString;&#13;
+&#13;
+$password.ToCharArray() | ForEach-Object {$secstr.AppendChar($_)};&#13;
+$credentials = new-object -typename System.Management.Automation.PSCredential -Args $username, $secstr;&#13;
+&#13;
+#write-host "username  = " $username&#13;
+&#13;
+Add-Computer -DomainName "#domain#" -Credential $credentials -Force -Restart&#13;
+&#13;
+#Start-Sleep -s 60</content>
+        <name>CMPJoinVMToDomain</name>
+        <sys_class_name>sn_cfg_cloud_script_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 05:16:05</sys_created_on>
+        <sys_id>84420d9b5b2b13001353273a41f91a9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CMPJoinVMToDomain</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cfg_cloud_script_template_84420d9b5b2b13001353273a41f91a9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 05:16:05</sys_updated_on>
+    </sn_cfg_cloud_script_template>
+</record_update>

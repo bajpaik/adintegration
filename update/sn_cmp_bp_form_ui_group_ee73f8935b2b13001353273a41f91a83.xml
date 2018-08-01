@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_form_ui_group">
+    <sn_cmp_bp_form_ui_group action="INSERT_OR_UPDATE">
+        <bp_cat_form_behavior display_value="VM With AD Integration Deprovision">3c7338935b2b13001353273a41f91a9d</bp_cat_form_behavior>
+        <display_order>1</display_order>
+        <name>Deprovision</name>
+        <sys_class_name>sn_cmp_bp_form_ui_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:09:55</sys_created_on>
+        <sys_id>ee73f8935b2b13001353273a41f91a83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deprovision</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_bp_form_ui_group_ee73f8935b2b13001353273a41f91a83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:09:55</sys_updated_on>
+    </sn_cmp_bp_form_ui_group>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_res_op_graph">
+    <sn_cmp_bp_stage_res_op_graph action="INSERT_OR_UPDATE">
+        <blueprint_stage_op display_value="Provision">9b33f4535b2b13001353273a41f91abb</blueprint_stage_op>
+        <child_operation display_value="Virtual Server.Provision">9153b4935b2b13001353273a41f91a60</child_operation>
+        <in_degree>0</in_degree>
+        <parent_operation display_value="Blueprint Container Resource.Provision">b74334935b2b13001353273a41f91ae3</parent_operation>
+        <status>true</status>
+        <sys_class_name>sn_cmp_bp_stage_res_op_graph</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:09:11</sys_created_on>
+        <sys_id>ff4334935b2b13001353273a41f91ae5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_res_op_graph_ff4334935b2b13001353273a41f91ae5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:09:17</sys_updated_on>
+    </sn_cmp_bp_stage_res_op_graph>
+</record_update>

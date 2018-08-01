@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_catalog_prop">
+    <sn_cmp_bp_catalog_prop action="INSERT_OR_UPDATE">
+        <bp_cat_form_behavior display_value="VM With AD Integration">b07338935b2b13001353273a41f91a9b</bp_cat_form_behavior>
+        <datasource>1</datasource>
+        <default_value/>
+        <display_name>Virtual Server Network</display_name>
+        <display_order>2552</display_order>
+        <error_text/>
+        <form_ui_group display_value="Provision">347378935b2b13001353273a41f91aa8</form_ui_group>
+        <global_prop display_value="Virtual_Server_Network">3153b4935b2b13001353273a41f91ae7</global_prop>
+        <help_text/>
+        <mandatory>false</mandatory>
+        <name>Virtual_Server_Network</name>
+        <parameter_type>1</parameter_type>
+        <policy>ServiceNow::Pools::NetworkPool.getByLDC</policy>
+        <read_only>false</read_only>
+        <regex/>
+        <sys_class_name>sn_cmp_bp_catalog_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:09:48</sys_created_on>
+        <sys_id>747378935b2b13001353273a41f91ac1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Virtual_Server_Network</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_bp_catalog_prop_747378935b2b13001353273a41f91ac1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:09:48</sys_updated_on>
+        <ui_data_type>7</ui_data_type>
+        <unique_id>2051</unique_id>
+        <visibility>true</visibility>
+    </sn_cmp_bp_catalog_prop>
+</record_update>

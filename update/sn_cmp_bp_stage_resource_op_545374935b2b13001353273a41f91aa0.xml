@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_resource_op">
+    <sn_cmp_bp_stage_resource_op action="INSERT_OR_UPDATE">
+        <alias_name>Blueprint Container Resource.Stop</alias_name>
+        <bp_stage_operation display_value="Stop">9333f4535b2b13001353273a41f91ac1</bp_stage_operation>
+        <bp_stage_resource display_value="Blueprint Container Resource">d733f4535b2b13001353273a41f91acd</bp_stage_resource>
+        <condition_text/>
+        <operation_order>1</operation_order>
+        <parent_id/>
+        <rb_operation_impl display_value="Stop">8333f4535b2b13001353273a41f91a57</rb_operation_impl>
+        <resource_block display_value="VM With AD Integration Blueprint Resource">8e33b4535b2b13001353273a41f91a24</resource_block>
+        <sys_class_name>sn_cmp_bp_stage_resource_op</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:09:13</sys_created_on>
+        <sys_id>545374935b2b13001353273a41f91aa0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blueprint Container Resource.Stop</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_resource_op_545374935b2b13001353273a41f91aa0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:09:13</sys_updated_on>
+        <type/>
+        <unique_id>4455</unique_id>
+    </sn_cmp_bp_stage_resource_op>
+</record_update>

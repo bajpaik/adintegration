@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl">
+    <sn_cmp_rb_op_impl action="INSERT_OR_UPDATE">
+        <interface display_value="VM With AD Integration Resource Interface">0a33b4535b2b13001353273a41f91a22</interface>
+        <operation display_value="Deprovision">0333f4535b2b13001353273a41f91a75</operation>
+        <operation_output_attributes/>
+        <resource display_value="VM With AD Integration Blueprint Resource">8e33b4535b2b13001353273a41f91a24</resource>
+        <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:08:52</sys_created_on>
+        <sys_id>8b33f4535b2b13001353273a41f91a78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0333f4535b2b13001353273a41f91a75</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_8b33f4535b2b13001353273a41f91a78</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:08:52</sys_updated_on>
+    </sn_cmp_rb_op_impl>
+</record_update>

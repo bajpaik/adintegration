@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_action">
+    <sn_cmp_bp_action action="INSERT_OR_UPDATE">
+        <action_type>1</action_type>
+        <datasource>3</datasource>
+        <name>Reload Quota</name>
+        <order>10</order>
+        <rule display_value="Reload Quota">5d73b8935b2b13001353273a41f91a65</rule>
+        <status/>
+        <sys_class_name>sn_cmp_bp_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:09:50</sys_created_on>
+        <sys_id>9973b8935b2b13001353273a41f91a67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reload Quota</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_bp_action_9973b8935b2b13001353273a41f91a67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:09:50</sys_updated_on>
+        <target_attribute>Quota</target_attribute>
+        <target_attribute_select/>
+        <value/>
+    </sn_cmp_bp_action>
+</record_update>

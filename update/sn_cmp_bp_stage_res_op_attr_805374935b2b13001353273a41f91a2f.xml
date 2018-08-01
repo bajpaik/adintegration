@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_res_op_attr">
+    <sn_cmp_bp_stage_res_op_attr action="INSERT_OR_UPDATE">
+        <default_value>${parameter.ScheduleTimeZone}</default_value>
+        <name>ScheduleTimeZone</name>
+        <rb_operation_attribute display_value="ScheduleTimeZone">ea33b4535b2b13001353273a41f91aec</rb_operation_attribute>
+        <stage_resource_operation display_value="Blueprint Container Resource.Provision">b74334935b2b13001353273a41f91ae3</stage_resource_operation>
+        <sys_class_name>sn_cmp_bp_stage_res_op_attr</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:09:12</sys_created_on>
+        <sys_id>805374935b2b13001353273a41f91a2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScheduleTimeZone</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_res_op_attr_805374935b2b13001353273a41f91a2f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:09:12</sys_updated_on>
+        <type_of_map>1</type_of_map>
+        <use_in_operation>true</use_in_operation>
+    </sn_cmp_bp_stage_res_op_attr>
+</record_update>

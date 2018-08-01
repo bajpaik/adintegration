@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_resourceinterface">
+    <sn_cmp_rb_resourceinterface action="INSERT_OR_UPDATE">
+        <extends_from/>
+        <is_system_defined>false</is_system_defined>
+        <name>VM With AD Integration Resource Interface</name>
+        <sys_class_name>sn_cmp_rb_resourceinterface</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:08:47</sys_created_on>
+        <sys_id>0a33b4535b2b13001353273a41f91a22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VM With AD Integration Resource Interface</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_rb_resourceinterface_0a33b4535b2b13001353273a41f91a22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:08:47</sys_updated_on>
+        <type>Base</type>
+    </sn_cmp_rb_resourceinterface>
+</record_update>

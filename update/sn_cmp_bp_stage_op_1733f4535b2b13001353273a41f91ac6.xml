@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_op">
+    <sn_cmp_bp_stage_op action="INSERT_OR_UPDATE">
+        <blueprint_stage_model display_value="">5733f4535b2b13001353273a41f91ab8</blueprint_stage_model>
+        <is_plan_synced>false</is_plan_synced>
+        <name>Deprovision</name>
+        <operation_impl display_value="Deprovision">8b33f4535b2b13001353273a41f91a78</operation_impl>
+        <parallel_plan_generated>false</parallel_plan_generated>
+        <sys_class_name>sn_cmp_bp_stage_op</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 04:08:53</sys_created_on>
+        <sys_id>1733f4535b2b13001353273a41f91ac6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deprovision</sys_name>
+        <sys_package display_value="VMware Join AD" source="sn_vmware_join_ad">c5e0fc5f5be713001353273a41f91ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Join AD">c5e0fc5f5be713001353273a41f91ae5</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_op_1733f4535b2b13001353273a41f91ac6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 04:08:53</sys_updated_on>
+    </sn_cmp_bp_stage_op>
+</record_update>
